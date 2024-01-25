@@ -4,7 +4,7 @@ I'm Lisa
 
 ## Github Streak
 
-[![Lisa's GitHub Streak](https://streak-stats.demolab.com/?user=katikuuu&theme=highcontrast&layout=compact&count_private=true)](https://git.io/streak-stats) 
+[![Lisa's GitHub Streak](https://streak-stats.demolab.com/?user=Wanziku&theme=highcontrast&layout=compact&count_private=true)](https://git.io/streak-stats) 
 
 ## Languages and Tools
 
